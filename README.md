@@ -12,15 +12,19 @@ For the one I made I just peeled the insulator from a jumper wire and kind of co
 ![Wiring](Pics/Wiring.jpg)
 
 More Pics:
-![Wiring_Bottom](Wiring_Bottom.jpg)
-![Wiring_Side](Wiring_Side.jpg)
+![Wiring_Bottom](Pics/Wiring_Bottom.jpg)
+![Wiring_Side](Pics/Wiring_Side.jpg)
 
 
 After finishing wiring I used air dry clay to keep everything together and make a nice little soft casing. 
 
 Here's how the current final version looks like:
 
-Pics/Vid.mp4
+
+
+https://github.com/user-attachments/assets/d40e0147-6267-40e9-9e10-2c23bf32484c
+
+
 
 I know my clay skills suck and I even messed up some connections while making the clay casing but hey, it works!
 
